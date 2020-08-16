@@ -14,4 +14,8 @@ export class AppComponent {
     {name:'krishna',review:'this was useing last one year.....'},
     {name:'vimal',review:'this was useing last one year.....'}
   ];
+  Totalempsal(){
+    //debugger;
+    alert('this salay was 200000');
+  }
 }
